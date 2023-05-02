@@ -13,3 +13,7 @@ asm-all(eg: `asm-all-5.2.jar`):
 nashorn-core(eg `nashorn-core-15.4.jar`):
 
 - https://central.sonatype.com/artifact/org.openjdk.nashorn/nashorn-core/15.4/versions
+
+running:
+
+`bash build.sh && bash run.sh`
