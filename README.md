@@ -1,7 +1,7 @@
 # example-nashorn-mingw
 An example for using Nashorn JavaScript engine from Java in 2023.
 
-Nashorn is a very lightweight but powerful script engine that supports all vanilla javascript features while allowing very useful runtime scripting interop between Java and JavaScript.
+Nashorn is a very lightweight but powerful script engine that supports all vanilla javascript features while allowing very useful runtime scripting interop between Java and JavaScript(Nashorn can use Java's objects and Java can use Nashorn's JavaScript objects).
 
 Nashorn Script Engine depends on:
 
